@@ -82,3 +82,6 @@ I also learned that effective cybersecurity requires a combination of technical 
 * Security controls
 * Risk management concepts
 * Security policy concepts
+## Project Files
+
+- [Simulated Cybersecurity Risk Assessment](risk-assessment-example.md)
